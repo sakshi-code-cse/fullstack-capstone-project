@@ -6,9 +6,15 @@ import RegisterPage from './components/RegisterPage/RegisterPage';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
+
 import SearchPage from './components/SearchPage/SearchPage';
 
+
+
 import DetailsPage from './components/DetailsPage/DetailsPage';
+
+
+
 
 
 
@@ -25,7 +31,9 @@ function App() {
 
           <Route path="/app/login" element={<LoginPage/>} />
           <Route path="/app/register" element={<RegisterPage />} />
+
           <Route path="/app/search" element={<SearchPage/>} />
+
 
         </Routes>
         </>
